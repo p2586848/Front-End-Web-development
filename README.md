@@ -44,8 +44,7 @@ Authors
 
 1. Gerneral Information 
 
-Stylish Clothing is a website that sells clothes for both male and female. To create the website 4 folders wer required such as html, css, javascript and images 
-so each file is saved in seperate folder. 
+Stylish Clothing is a website that sells clothes for both male and female. To create the website 4 folders wer required such as html, css, javascript and images so each file is saved in seperate folder. The webpages are responsive such as for desktop, i-pad or tablet and mobile.
 
 2. Prerequisite 
 	Before creating a website, you need to ensure that you are meeting the following requirements:
@@ -68,22 +67,22 @@ so each file is saved in seperate folder.
 		- click on finish 
 
 5. How to use the website 
-	The website contains 4 pages whci are explained below:
+	The website contains 4 pages which are explained below:
 
 1. Home page
-	Home page consist of 3 sections header, body and footer. Head section contains the name of the buisness, a logo, navigation bar which takes the user from one page to anorher.  
-	Body sections displays an image and footer section includes the copyright.
+	Home page consist of 3 sections header, body and footer. Head section contains the name of the buisness, a logo, navigation bar which has takes the user from one page to anorher.  
+	Body sections displays a sideshow and footer section includes the copyright.
 
 2. About Us page 
-	About Us page contains the history of the busiess such as where teh business located, whenn the business was started, what do they do and so on. 
-	Moreover, this page contains a lesgislation as well which is linked to government website where rules and regulations for the business has mentioned.
+	About Us page contains the history of the busiess such as where teh business located, whenn the business was started, what do they do and so on. Moreover, this page contains a lesgislation as well which is linked to government website where rules and regulations for the business has mentioned. Moreover, a video has been embedded on about us page.
 
 3. Product page 
 	
 
 4.  Contact Us Page
-	Contact Us page contains a contact form where a user required to enter his/her details and a query of complaint if there is any. Moreover,
-	there are 3 sidebard which contains the contact number, email and address. 
+	Contact Us page contains a contact form where a user required to enter his/her details and a query of complaint if there is any
+	and javascript code has been used for the submit button. Moreover, a map has been embedded on contact page.
+
 
 
 6. Author
